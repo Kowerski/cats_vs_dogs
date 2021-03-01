@@ -18,3 +18,4 @@ And here is what the algorithm said: <br>
 <br><br>
 Feel free to contact me in case of any comments or recommendations concerning my work 😁 I'll be pleased to discuss about this (or any other project) and maybe learn something new <br> <br>
 I am looking forward to accomplish more ML projects! -- Stay Tuned! 🙌
+trolololo
